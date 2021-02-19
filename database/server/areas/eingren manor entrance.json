@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod6000.map",
+  "Cols": 60,
+  "ContentName": null,
+  "Flags": 106240,
+  "Id": 6000,
+  "Music": 17,
+  "Name": "Eingren Manor Entrance",
+  "Rows": 60,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 6000
+}

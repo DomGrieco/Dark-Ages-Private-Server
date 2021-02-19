@@ -1,12 +1,12 @@
 {
 	// Locales
 	"Content": {
-		"Location": "C:\\Users\\Dean\\Documents\\GitHub\\DarkAges-Lorule-Server\\database\\server",
+		"Location": "C:\\Users\\Dominic\\OneDrive\\Documents\\Dark-Ages-Private-Server\\database\\server",
 		"ServerIP": "127.0.0.1"
 	},
 	"Editor": {
-		"Location": "C:\\Users\\Dean\\Documents\\GitHub\\DarkAges-Lorule-Server\\database",
-		"GameLocation": "C:\\Users\\Dean\\Documents\\GitHub\\DarkAges-Lorule-Server\\game"
+		"Location": "C:\\Users\\Dominic\\OneDrive\\Documents\\Dark-Ages-Private-Server\\database",
+		"GameLocation": "C:\\Users\\Dominic\\OneDrive\\Documents\\Dark-Ages-Private-Server\\game"
 	},
 
 
@@ -119,7 +119,7 @@
 		"SERVER_TITLE": "Hades",
 		"ServerWelcomeMessage": "Welcome to Lorule",
 		"GameMasters": [
-			"wren", "lol"
+			"test", "lol"
 		],
 		"DontSavePlayers": false,
 		"Settings": [

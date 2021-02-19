@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod85.map",
+  "Cols": 50,
+  "ContentName": null,
+  "Flags": 106240,
+  "Id": 85,
+  "Music": 6,
+  "Name": "Refugee Sanctum",
+  "Rows": 50,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 85
+}

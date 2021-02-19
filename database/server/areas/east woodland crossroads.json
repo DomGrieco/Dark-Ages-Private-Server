@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod600.map",
+  "Cols": 25,
+  "ContentName": null,
+  "Flags": 106240,
+  "Id": 600,
+  "Music": 17,
+  "Name": "East Woodland Crossroads",
+  "Rows": 25,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 600
+}

@@ -1,13 +1,13 @@
 {
-  "FilePath": "..\\..\\database\\server\\maps\\lod2.map",
-  "Cols": 70,
-  "ContentName": "Refuge_Safe_Map",
+  "FilePath": "..\\..\\database\\server\\maps\\lod81.map",
+  "Cols": 35,
+  "ContentName": null,
   "Flags": 106240,
-  "Id": 2,
-  "Music": 27,
+  "Id": 81,
+  "Music": 4,
   "Name": "Refugee Camp",
-  "Rows": 70,
+  "Rows": 35,
   "Blocks": [],
   "ScriptKey": null,
-  "ID": 2
+  "ID": 81
 }

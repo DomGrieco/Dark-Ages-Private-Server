@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod50000.map",
+  "Cols": 55,
+  "ContentName": null,
+  "Flags": 16384,
+  "Id": 50000,
+  "Music": 36,
+  "Name": "Colliseum Arena",
+  "Rows": 55,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 50000
+}

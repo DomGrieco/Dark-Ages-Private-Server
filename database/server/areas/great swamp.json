@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod3.map",
+  "Cols": 100,
+  "ContentName": "Great_Swamp",
+  "Flags": 16384,
+  "Id": 3,
+  "Music": 3,
+  "Name": "Great Swamp",
+  "Rows": 100,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 3
+}

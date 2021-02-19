@@ -8,7 +8,7 @@ using Darkages.Types;
 
 namespace Darkages.Storage.locales.Scripts.Spells.gm
 {
-    [Script("[GM] Create Item", "Dean")]
+    [Script("[GM] Create Item", "test")]
     public class Create : SpellScript
     {
         public Create(Spell spell) : base(spell)

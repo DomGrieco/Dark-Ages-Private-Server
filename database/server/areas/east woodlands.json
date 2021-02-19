@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod301.map",
+  "Cols": 25,
+  "ContentName": null,
+  "Flags": 106240,
+  "Id": 301,
+  "Music": 12,
+  "Name": "East Woodlands",
+  "Rows": 25,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 301
+}

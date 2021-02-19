@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod510.map",
+  "Cols": 40,
+  "ContentName": null,
+  "Flags": 106240,
+  "Id": 510,
+  "Music": 17,
+  "Name": "Battle Ring Entrance",
+  "Rows": 50,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 510
+}

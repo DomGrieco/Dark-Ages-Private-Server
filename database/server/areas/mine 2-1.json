@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod625.map",
+  "Cols": 100,
+  "ContentName": null,
+  "Flags": 106240,
+  "Id": 625,
+  "Music": 17,
+  "Name": "Mine 2-1",
+  "Rows": 100,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 625
+}

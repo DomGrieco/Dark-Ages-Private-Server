@@ -1,34 +1,59 @@
 {
-  "Portals": [
-    {
-      "Destination": {
-        "AreaID": 2,
-        "Location": {
-          "X": 66,
-          "Y": 35
-        },
-        "PortalKey": 0
+  "$type": "Darkages.Types.WorldMapTemplate, Darkages.Server",
+  "Portals": {
+    "$type": "System.Collections.Generic.List`1[[Darkages.Types.WorldPortal, Darkages.Server]], mscorlib",
+    "$values": [
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Tutorial",
+        "PointX": 388,
+        "PointY": 293,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "AreaID": 0,
+            "X": 47,
+            "Y": 29
+          },
+          "AreaID": 3029,
+          "PortalKey": 0
+        }
       },
-      "DisplayName": "Refugee Camp",
-      "PointX": 442,
-      "PointY": 225
+	  {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Pravat Cave",
+        "PointX": 130,
+        "PointY": 282,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "AreaID": 0,
+            "X": 26,
+            "Y": 24
+          },
+          "AreaID": 3052,
+          "PortalKey": 1
+        }
+      }
+    ]
+  },
+  "Transition": {
+    "$type": "Darkages.Types.Warp, Darkages.Server",
+    "Location": {
+      "$type": "Darkages.Types.Position, Darkages.Server",
+      "AreaID": 0,
+      "X": 7,
+      "Y": 4
     },
-    {
-      "Destination": {
-        "AreaID": 3,
-        "Location": {
-          "X": 95,
-          "Y": 50
-        },
-        "PortalKey": 0
-      },
-      "DisplayName": "Lost Woods",
-      "PointX": 417,
-      "PointY": 50
-    }
-  ],
+    "AreaID": 9999,
+    "PortalKey": 1
+  },
   "FieldNumber": 1,
-  "Description": "Temuair, Refuge, East Woodlands",
-  "Group": "WorldMaps",
-  "Name": "Temuair"
+  "WorldIndex": 1,  
+  "ID": 0,
+  "Name": "Temuair",
+  "Description": null,
+  "Group": null
 }

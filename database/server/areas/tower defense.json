@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod510.map",
+  "Cols": 13,
+  "ContentName": null,
+  "Flags": 16384,
+  "Id": 510,
+  "Music": 44,
+  "Name": "Tower Defense",
+  "Rows": 13,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 510
+}
