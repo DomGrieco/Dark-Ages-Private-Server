@@ -1,12 +1,12 @@
 {
 	// Locales
 	"Content": {
-		"Location": "C:\\Users\\Dominic\\OneDrive\\Documents\\Dark-Ages-Private-Server\\database\\server",
+		"Location": "C:\\Github\\Hades\\database\\server",
 		"ServerIP": "127.0.0.1"
 	},
 	"Editor": {
-		"Location": "C:\\Users\\Dominic\\OneDrive\\Documents\\Dark-Ages-Private-Server\\database",
-		"GameLocation": "C:\\Users\\Dominic\\OneDrive\\Documents\\Dark-Ages-Private-Server\\game"
+		"Location": "C:\\Github\\Hades\\database",
+		"GameLocation": "C:\\Github\\Hades\\game"
 	},
 
 
