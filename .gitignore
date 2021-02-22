@@ -22,8 +22,10 @@ aislings\*
 git\*
 .gitbook
 .gitbook\*
+database\.git
 database
 database\*
+.git\modules\database
 
 
 *.ide-wal
