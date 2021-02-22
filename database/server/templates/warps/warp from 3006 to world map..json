@@ -1,0 +1,50 @@
+{
+  "ActivationMapId": 3006,
+  "Activations": [
+    {
+      "AreaId": 3006,
+      "Location": {
+        "X": 15,
+        "Y": 6
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3006,
+      "Location": {
+        "X": 15,
+        "Y": 8
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3006,
+      "Location": {
+        "X": 15,
+        "Y": 9
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3006,
+      "Location": {
+        "X": 15,
+        "Y": 10
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 0,
+    "Location": null,
+    "PortalKey": 1
+  },
+  "WarpRadius": 0,
+  "WarpType": 1,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 3006 to World Map."
+}

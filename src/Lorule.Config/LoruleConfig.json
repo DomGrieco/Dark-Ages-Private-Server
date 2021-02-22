@@ -15,7 +15,7 @@
 		"RefreshRate": 300,
 		"WalkingSpeedLimitFactor": 275, //275 prevents all movement hacks from working.
 		"RefreshOnWalkCollision": true,
-		"LimitWalkingSpeed": true,
+		"LimitWalkingSpeed": false,
 		"F5ReloadsPlayers": false,
 		"F5ReloadsMonsters": false,
 		"DontTurnDuringRefresh": false,
@@ -24,10 +24,10 @@
 
 		// Starting Zone
 		"NationReturnHours": 3,
-		"StartingMap": 1,
+		"StartingMap": 3029,
 		"StartingPosition": {
-			"X": 4,
-			"Y": 4
+			"X": 25,
+			"Y": 42
 		},
 
 		// World Transitions
@@ -146,7 +146,7 @@
 		"UseLoruleVariants": false,
 		"UseLoruleItemRarity": false,
 		"ErrorReporting": true,
-		"DevMode": false,
+		"DevMode": true,
 		"UseLobby": true,
 		"ClientVersion": 718,
 		"LogObjectsAdded": false,
