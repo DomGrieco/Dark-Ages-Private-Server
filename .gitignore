@@ -36,3 +36,4 @@ Lorule - Live.sln.CodeItRight.xml
 src/Lorule.Editor/EditorConfig.Local.json
 /data/Assets/MapTiles
 /game
+!/game/DarkAges.dat
