@@ -1,3 +1,6 @@
 [submodule "Hades-DB"]
 	path = database
 	url = https://github.com/DomGrieco/Hades-DB
+[submodule "database"]
+	path = database
+	url = https://github.com/DomGrieco/Hades-DB
