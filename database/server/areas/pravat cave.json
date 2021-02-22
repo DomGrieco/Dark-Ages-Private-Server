@@ -1,13 +1,13 @@
 {
-  "FilePath": "..\\..\\database\\server\\maps\\lod5206.map",
+  "FilePath": "..\\..\\database\\server\\maps\\lod3052.map",
   "Cols": 51,
-  "ContentName": null,
+  "ContentName": "Pravat Cave",
   "Flags": 106240,
-  "Id": 5206,
-  "Music": 1,
+  "Id": 3052,
+  "Music": 17,
   "Name": "Pravat Cave",
   "Rows": 26,
   "Blocks": [],
   "ScriptKey": null,
-  "ID": 5206
+  "ID": 3052
 }

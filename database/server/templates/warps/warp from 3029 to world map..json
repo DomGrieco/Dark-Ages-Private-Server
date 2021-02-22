@@ -1,0 +1,50 @@
+{
+  "ActivationMapId": 3029,
+  "Activations": [
+    {
+      "AreaId": 3029,
+      "Location": {
+        "X": 24,
+        "Y": 49
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3029,
+      "Location": {
+        "X": 25,
+        "Y": 49
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3029,
+      "Location": {
+        "X": 26,
+        "Y": 49
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3029,
+      "Location": {
+        "X": 27,
+        "Y": 49
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 0,
+    "Location": null,
+    "PortalKey": 1
+  },
+  "WarpRadius": 0,
+  "WarpType": 1,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 3029 to World Map."
+}

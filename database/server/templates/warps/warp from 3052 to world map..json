@@ -1,0 +1,34 @@
+{
+  "ActivationMapId": 3052,
+  "Activations": [
+    {
+      "AreaId": 3052,
+      "Location": {
+        "X": 26,
+        "Y": 25
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3052,
+      "Location": {
+        "X": 25,
+        "Y": 25
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 0,
+    "Location": null,
+    "PortalKey": 1
+  },
+  "WarpRadius": 0,
+  "WarpType": 1,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 3052 to World Map."
+}
