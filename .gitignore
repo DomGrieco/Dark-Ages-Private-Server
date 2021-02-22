@@ -35,5 +35,5 @@ GitStuff/~$ItemDisplays.xlsx
 Lorule - Live.sln.CodeItRight.xml
 src/Lorule.Editor/EditorConfig.Local.json
 /data/Assets/MapTiles
-/game
+/game/*
 !/game/DarkAges.dat
