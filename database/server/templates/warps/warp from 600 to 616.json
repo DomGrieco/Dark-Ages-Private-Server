@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 600,
+  "Activations": [
+    {
+      "AreaId": 600,
+      "Location": {
+        "X": 21,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 616,
+    "Location": {
+      "X": 25,
+      "Y": 48
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 600 to 616"
+}

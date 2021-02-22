@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 6590,
+  "Activations": [
+    {
+      "AreaId": 6590,
+      "Location": {
+        "X": 13,
+        "Y": 37
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 6584,
+    "Location": {
+      "X": 47,
+      "Y": 6
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 6590 to 6584"
+}

@@ -1,0 +1,53 @@
+{
+  "ActivationMapId": 8362,
+  "Activations": [
+    {
+      "AreaId": 8362,
+      "Location": {
+        "X": 28,
+        "Y": 49
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8362,
+      "Location": {
+        "X": 29,
+        "Y": 49
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8362,
+      "Location": {
+        "X": 31,
+        "Y": 49
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8362,
+      "Location": {
+        "X": 30,
+        "Y": 49
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 8361,
+    "Location": {
+      "X": 32,
+      "Y": 4
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 8362 to 8361"
+}

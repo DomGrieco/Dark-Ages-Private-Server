@@ -1,0 +1,53 @@
+{
+  "ActivationMapId": 3029,
+  "Activations": [
+    {
+      "AreaId": 3029,
+      "Location": {
+        "X": 49,
+        "Y": 28
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3029,
+      "Location": {
+        "X": 49,
+        "Y": 29
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3029,
+      "Location": {
+        "X": 49,
+        "Y": 30
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3029,
+      "Location": {
+        "X": 49,
+        "Y": 31
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 3000,
+    "Location": {
+      "X": 2,
+      "Y": 3
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 3029 to 3000"
+}

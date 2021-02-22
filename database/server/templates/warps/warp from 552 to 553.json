@@ -1,0 +1,45 @@
+{
+  "ActivationMapId": 552,
+  "Activations": [
+    {
+      "AreaId": 552,
+      "Location": {
+        "X": 49,
+        "Y": 29
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 552,
+      "Location": {
+        "X": 49,
+        "Y": 28
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 552,
+      "Location": {
+        "X": 49,
+        "Y": 27
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 553,
+    "Location": {
+      "X": 1,
+      "Y": 9
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 552 to 553"
+}

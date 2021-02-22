@@ -1,0 +1,37 @@
+{
+  "ActivationMapId": 6533,
+  "Activations": [
+    {
+      "AreaId": 6533,
+      "Location": {
+        "X": 0,
+        "Y": 4
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6533,
+      "Location": {
+        "X": 0,
+        "Y": 1
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 6531,
+    "Location": {
+      "X": 72,
+      "Y": 2
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 6533 to 6531"
+}

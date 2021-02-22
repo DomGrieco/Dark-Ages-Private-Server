@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 10030,
+  "Activations": [
+    {
+      "AreaId": 10030,
+      "Location": {
+        "X": 49,
+        "Y": 13
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 10031,
+    "Location": {
+      "X": 2,
+      "Y": 13
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 10030 to 10031"
+}

@@ -1,0 +1,37 @@
+{
+  "ActivationMapId": 8987,
+  "Activations": [
+    {
+      "AreaId": 8987,
+      "Location": {
+        "X": 99,
+        "Y": 2
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8987,
+      "Location": {
+        "X": 99,
+        "Y": 5
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 8995,
+    "Location": {
+      "X": 2,
+      "Y": 2
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 8987 to 8995"
+}

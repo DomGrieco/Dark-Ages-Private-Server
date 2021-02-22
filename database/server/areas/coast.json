@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod185.map",
+  "Cols": 50,
+  "ContentName": "Coast",
+  "Flags": 0,
+  "Id": 185,
+  "Music": -1,
+  "Name": "Coast",
+  "Rows": 50,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 185
+}

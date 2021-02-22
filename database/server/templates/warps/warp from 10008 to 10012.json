@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 10008,
+  "Activations": [
+    {
+      "AreaId": 10008,
+      "Location": {
+        "X": 0,
+        "Y": 5
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 10012,
+    "Location": {
+      "X": 46,
+      "Y": 5
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 10008 to 10012"
+}

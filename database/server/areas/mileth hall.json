@@ -1,10 +1,10 @@
 {
   "FilePath": "..\\..\\database\\server\\maps\\lod3026.map",
   "Cols": 12,
-  "ContentName": null,
-  "Flags": 106240,
+  "ContentName": "Mileth Hall",
+  "Flags": 0,
   "Id": 3026,
-  "Music": 17,
+  "Music": -1,
   "Name": "Mileth Hall",
   "Rows": 16,
   "Blocks": [],

@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod10000.map",
+  "Cols": 90,
+  "ContentName": "Asilon Town",
+  "Flags": 0,
+  "Id": 10000,
+  "Music": -1,
+  "Name": "Asilon Town",
+  "Rows": 80,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 10000
+}

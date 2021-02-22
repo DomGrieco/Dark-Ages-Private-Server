@@ -1,0 +1,45 @@
+{
+  "ActivationMapId": 2900,
+  "Activations": [
+    {
+      "AreaId": 2900,
+      "Location": {
+        "X": 3,
+        "Y": 10
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 2900,
+      "Location": {
+        "X": 3,
+        "Y": 9
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 2900,
+      "Location": {
+        "X": 3,
+        "Y": 8
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 2901,
+    "Location": {
+      "X": 23,
+      "Y": 11
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 2900 to 2901"
+}

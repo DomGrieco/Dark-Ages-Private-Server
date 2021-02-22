@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 2093,
+  "Activations": [
+    {
+      "AreaId": 2093,
+      "Location": {
+        "X": 0,
+        "Y": 75
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 2092,
+    "Location": {
+      "X": 98,
+      "Y": 68
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 2093 to 2092"
+}

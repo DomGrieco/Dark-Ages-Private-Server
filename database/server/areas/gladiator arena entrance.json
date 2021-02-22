@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod3950.map",
+  "Cols": 20,
+  "ContentName": "Gladiator Arena Entrance",
+  "Flags": 0,
+  "Id": 3950,
+  "Music": -1,
+  "Name": "Gladiator Arena Entrance",
+  "Rows": 20,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 3950
+}

@@ -1,0 +1,85 @@
+{
+  "ActivationMapId": 8431,
+  "Activations": [
+    {
+      "AreaId": 8431,
+      "Location": {
+        "X": 23,
+        "Y": 2
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8431,
+      "Location": {
+        "X": 24,
+        "Y": 2
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8431,
+      "Location": {
+        "X": 25,
+        "Y": 2
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8431,
+      "Location": {
+        "X": 26,
+        "Y": 2
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8431,
+      "Location": {
+        "X": 27,
+        "Y": 2
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8431,
+      "Location": {
+        "X": 28,
+        "Y": 2
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8431,
+      "Location": {
+        "X": 29,
+        "Y": 2
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8431,
+      "Location": {
+        "X": 30,
+        "Y": 2
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 8432,
+    "Location": {
+      "X": 5,
+      "Y": 8
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 8431 to 8432"
+}

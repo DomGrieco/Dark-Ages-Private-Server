@@ -1,0 +1,37 @@
+{
+  "ActivationMapId": 706,
+  "Activations": [
+    {
+      "AreaId": 706,
+      "Location": {
+        "X": 0,
+        "Y": 16
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 706,
+      "Location": {
+        "X": 16,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 710,
+    "Location": {
+      "X": 5,
+      "Y": 12
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 706 to 710"
+}

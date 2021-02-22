@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 1966,
+  "Activations": [
+    {
+      "AreaId": 1966,
+      "Location": {
+        "X": 8,
+        "Y": 13
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 662,
+    "Location": {
+      "X": 29,
+      "Y": 13
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 1966 to 662"
+}

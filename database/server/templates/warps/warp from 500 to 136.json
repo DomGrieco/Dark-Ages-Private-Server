@@ -1,0 +1,53 @@
+{
+  "ActivationMapId": 500,
+  "Activations": [
+    {
+      "AreaId": 500,
+      "Location": {
+        "X": 27,
+        "Y": 43
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 500,
+      "Location": {
+        "X": 28,
+        "Y": 43
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 500,
+      "Location": {
+        "X": 32,
+        "Y": 37
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 500,
+      "Location": {
+        "X": 32,
+        "Y": 38
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 136,
+    "Location": {
+      "X": 10,
+      "Y": 2
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 500 to 136"
+}

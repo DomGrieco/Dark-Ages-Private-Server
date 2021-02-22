@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 378,
+  "Activations": [
+    {
+      "AreaId": 378,
+      "Location": {
+        "X": 1,
+        "Y": 8
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 122,
+    "Location": {
+      "X": 8,
+      "Y": 4
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 378 to 122"
+}

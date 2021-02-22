@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 225,
+  "Activations": [
+    {
+      "AreaId": 225,
+      "Location": {
+        "X": 0,
+        "Y": 7
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 222,
+    "Location": {
+      "X": 2,
+      "Y": 11
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 225 to 222"
+}

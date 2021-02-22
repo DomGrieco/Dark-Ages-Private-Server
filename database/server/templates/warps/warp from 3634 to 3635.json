@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 3634,
+  "Activations": [
+    {
+      "AreaId": 3634,
+      "Location": {
+        "X": 1,
+        "Y": 14
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 3635,
+    "Location": {
+      "X": 6,
+      "Y": 5
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 3634 to 3635"
+}

@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 0,
+  "Activations": [
+    {
+      "AreaId": 0,
+      "Location": {
+        "X": 1,
+        "Y": 15
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 136,
+    "Location": {
+      "X": 7,
+      "Y": 7
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 0 to 136"
+}

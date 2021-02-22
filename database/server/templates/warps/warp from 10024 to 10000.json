@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 10024,
+  "Activations": [
+    {
+      "AreaId": 10024,
+      "Location": {
+        "X": 20,
+        "Y": 7
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 10000,
+    "Location": {
+      "X": 27,
+      "Y": 31
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 10024 to 10000"
+}

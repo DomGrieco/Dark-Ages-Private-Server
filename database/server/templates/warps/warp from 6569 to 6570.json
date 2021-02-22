@@ -1,0 +1,37 @@
+{
+  "ActivationMapId": 6569,
+  "Activations": [
+    {
+      "AreaId": 6569,
+      "Location": {
+        "X": 12,
+        "Y": 44
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6569,
+      "Location": {
+        "X": 11,
+        "Y": 44
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 6570,
+    "Location": {
+      "X": 10,
+      "Y": 1
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 6569 to 6570"
+}

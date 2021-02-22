@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 247,
+  "Activations": [
+    {
+      "AreaId": 247,
+      "Location": {
+        "X": 12,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 244,
+    "Location": {
+      "X": 12,
+      "Y": 18
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 247 to 244"
+}

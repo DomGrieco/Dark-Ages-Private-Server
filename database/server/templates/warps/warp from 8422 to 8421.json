@@ -1,0 +1,45 @@
+{
+  "ActivationMapId": 8422,
+  "Activations": [
+    {
+      "AreaId": 8422,
+      "Location": {
+        "X": 4,
+        "Y": 36
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8422,
+      "Location": {
+        "X": 4,
+        "Y": 37
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8422,
+      "Location": {
+        "X": 4,
+        "Y": 38
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 8421,
+    "Location": {
+      "X": 98,
+      "Y": 9
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 8422 to 8421"
+}

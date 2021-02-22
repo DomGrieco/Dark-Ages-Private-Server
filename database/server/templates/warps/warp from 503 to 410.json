@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 503,
+  "Activations": [
+    {
+      "AreaId": 503,
+      "Location": {
+        "X": 11,
+        "Y": 54
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 410,
+    "Location": {
+      "X": 6,
+      "Y": 13
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 503 to 410"
+}

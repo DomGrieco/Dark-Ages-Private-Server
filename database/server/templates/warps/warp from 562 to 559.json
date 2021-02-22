@@ -1,0 +1,37 @@
+{
+  "ActivationMapId": 562,
+  "Activations": [
+    {
+      "AreaId": 562,
+      "Location": {
+        "X": 0,
+        "Y": 9
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 562,
+      "Location": {
+        "X": 0,
+        "Y": 10
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 559,
+    "Location": {
+      "X": 48,
+      "Y": 30
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 562 to 559"
+}

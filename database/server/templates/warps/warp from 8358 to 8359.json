@@ -1,0 +1,261 @@
+{
+  "ActivationMapId": 8358,
+  "Activations": [
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 41
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 40
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 39
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 38
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 37
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 36
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 35
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 34
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 33
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 32
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 31
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 30
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 29
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 28
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 27
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 26
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 25
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 24
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 23
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 22
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 21
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 20
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 19
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 18
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 17
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 16
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 15
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 14
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 13
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8358,
+      "Location": {
+        "X": 8,
+        "Y": 42
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 8359,
+    "Location": {
+      "X": 44,
+      "Y": 17
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 8358 to 8359"
+}

@@ -1,0 +1,45 @@
+{
+  "ActivationMapId": 3211,
+  "Activations": [
+    {
+      "AreaId": 3211,
+      "Location": {
+        "X": 25,
+        "Y": 10
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3211,
+      "Location": {
+        "X": 25,
+        "Y": 12
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3211,
+      "Location": {
+        "X": 25,
+        "Y": 11
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 3210,
+    "Location": {
+      "X": 72,
+      "Y": 51
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 3211 to 3210"
+}

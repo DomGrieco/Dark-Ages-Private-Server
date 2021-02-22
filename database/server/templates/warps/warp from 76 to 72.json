@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 76,
+  "Activations": [
+    {
+      "AreaId": 76,
+      "Location": {
+        "X": 44,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 72,
+    "Location": {
+      "X": 28,
+      "Y": 27
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 76 to 72"
+}

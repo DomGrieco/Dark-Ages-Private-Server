@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 280,
+  "Activations": [
+    {
+      "AreaId": 280,
+      "Location": {
+        "X": 28,
+        "Y": 37
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 283,
+    "Location": {
+      "X": 1,
+      "Y": 28
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 280 to 283"
+}

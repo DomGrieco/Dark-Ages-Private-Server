@@ -1,0 +1,45 @@
+{
+  "ActivationMapId": 326,
+  "Activations": [
+    {
+      "AreaId": 326,
+      "Location": {
+        "X": 3,
+        "Y": 11
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 326,
+      "Location": {
+        "X": 2,
+        "Y": 12
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 326,
+      "Location": {
+        "X": 3,
+        "Y": 12
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 3018,
+    "Location": {
+      "X": 22,
+      "Y": 6
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 326 to 3018"
+}

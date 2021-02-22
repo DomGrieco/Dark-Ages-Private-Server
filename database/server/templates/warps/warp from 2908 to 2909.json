@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 2908,
+  "Activations": [
+    {
+      "AreaId": 2908,
+      "Location": {
+        "X": 0,
+        "Y": 5
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 2909,
+    "Location": {
+      "X": 9,
+      "Y": 10
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 2908 to 2909"
+}

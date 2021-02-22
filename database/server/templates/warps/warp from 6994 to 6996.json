@@ -1,0 +1,77 @@
+{
+  "ActivationMapId": 6994,
+  "Activations": [
+    {
+      "AreaId": 6994,
+      "Location": {
+        "X": 0,
+        "Y": 3
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6994,
+      "Location": {
+        "X": 0,
+        "Y": 7
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6994,
+      "Location": {
+        "X": 0,
+        "Y": 10
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6994,
+      "Location": {
+        "X": 0,
+        "Y": 15
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6994,
+      "Location": {
+        "X": 0,
+        "Y": 20
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6994,
+      "Location": {
+        "X": 0,
+        "Y": 24
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6994,
+      "Location": {
+        "X": 0,
+        "Y": 16
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 6996,
+    "Location": {
+      "X": 28,
+      "Y": 16
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 6994 to 6996"
+}

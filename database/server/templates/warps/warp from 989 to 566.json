@@ -1,0 +1,53 @@
+{
+  "ActivationMapId": 989,
+  "Activations": [
+    {
+      "AreaId": 989,
+      "Location": {
+        "X": 1,
+        "Y": 36
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 989,
+      "Location": {
+        "X": 1,
+        "Y": 35
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 989,
+      "Location": {
+        "X": 1,
+        "Y": 34
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 989,
+      "Location": {
+        "X": 1,
+        "Y": 33
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 566,
+    "Location": {
+      "X": 48,
+      "Y": 24
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 989 to 566"
+}

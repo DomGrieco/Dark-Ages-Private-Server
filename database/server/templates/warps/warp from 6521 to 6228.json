@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 6521,
+  "Activations": [
+    {
+      "AreaId": 6521,
+      "Location": {
+        "X": 9,
+        "Y": 19
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 6228,
+    "Location": {
+      "X": 74,
+      "Y": 78
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 6521 to 6228"
+}

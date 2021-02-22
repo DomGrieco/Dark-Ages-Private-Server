@@ -1,0 +1,37 @@
+{
+  "ActivationMapId": 3271,
+  "Activations": [
+    {
+      "AreaId": 3271,
+      "Location": {
+        "X": 29,
+        "Y": 37
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3271,
+      "Location": {
+        "X": 28,
+        "Y": 37
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 109,
+    "Location": {
+      "X": 5,
+      "Y": 13
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 3271 to 109"
+}

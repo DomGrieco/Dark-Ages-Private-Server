@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 90,
+  "Activations": [
+    {
+      "AreaId": 90,
+      "Location": {
+        "X": 20,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 85,
+    "Location": {
+      "X": 28,
+      "Y": 9
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 90 to 85"
+}

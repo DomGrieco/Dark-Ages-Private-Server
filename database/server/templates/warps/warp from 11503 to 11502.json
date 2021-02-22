@@ -1,0 +1,53 @@
+{
+  "ActivationMapId": 11503,
+  "Activations": [
+    {
+      "AreaId": 11503,
+      "Location": {
+        "X": 0,
+        "Y": 2
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 11503,
+      "Location": {
+        "X": 0,
+        "Y": 3
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 11503,
+      "Location": {
+        "X": 0,
+        "Y": 4
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 11503,
+      "Location": {
+        "X": 0,
+        "Y": 5
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 11502,
+    "Location": {
+      "X": 57,
+      "Y": 55
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 11503 to 11502"
+}

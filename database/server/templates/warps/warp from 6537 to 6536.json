@@ -1,0 +1,277 @@
+{
+  "ActivationMapId": 6537,
+  "Activations": [
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 15,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 14,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 13,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 12,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 11,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 10,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 9,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 16,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 17,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 18,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 19,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 20,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 21,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 53,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 54,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 55,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 56,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 57,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 58,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 59,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 60,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 61,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 62,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 63,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 64,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 67,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 68,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 69,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 70,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 71,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 72,
+        "Y": 74
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6537,
+      "Location": {
+        "X": 73,
+        "Y": 74
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 6536,
+    "Location": {
+      "X": 73,
+      "Y": 1
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 6537 to 6536"
+}

@@ -1,10 +1,10 @@
 {
   "FilePath": "..\\..\\database\\server\\maps\\lod192.map",
   "Cols": 18,
-  "ContentName": null,
-  "Flags": 106240,
+  "ContentName": "Mileth Church",
+  "Flags": 0,
   "Id": 192,
-  "Music": 17,
+  "Music": -1,
   "Name": "Mileth Church",
   "Rows": 25,
   "Blocks": [],

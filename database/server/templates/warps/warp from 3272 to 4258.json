@@ -1,0 +1,45 @@
+{
+  "ActivationMapId": 3272,
+  "Activations": [
+    {
+      "AreaId": 3272,
+      "Location": {
+        "X": 7,
+        "Y": 50
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3272,
+      "Location": {
+        "X": 7,
+        "Y": 48
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3272,
+      "Location": {
+        "X": 7,
+        "Y": 49
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 4258,
+    "Location": {
+      "X": 38,
+      "Y": 15
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 3272 to 4258"
+}

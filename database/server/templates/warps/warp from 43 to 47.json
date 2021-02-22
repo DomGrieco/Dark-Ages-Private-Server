@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 43,
+  "Activations": [
+    {
+      "AreaId": 43,
+      "Location": {
+        "X": 19,
+        "Y": 9
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 47,
+    "Location": {
+      "X": 1,
+      "Y": 5
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 43 to 47"
+}

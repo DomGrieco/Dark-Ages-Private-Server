@@ -1,0 +1,37 @@
+{
+  "ActivationMapId": 2090,
+  "Activations": [
+    {
+      "AreaId": 2090,
+      "Location": {
+        "X": 99,
+        "Y": 83
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 2090,
+      "Location": {
+        "X": 99,
+        "Y": 82
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 2091,
+    "Location": {
+      "X": 1,
+      "Y": 48
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 2090 to 2091"
+}

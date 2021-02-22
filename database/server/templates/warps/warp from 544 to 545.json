@@ -1,0 +1,45 @@
+{
+  "ActivationMapId": 544,
+  "Activations": [
+    {
+      "AreaId": 544,
+      "Location": {
+        "X": 99,
+        "Y": 24
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 544,
+      "Location": {
+        "X": 99,
+        "Y": 23
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 544,
+      "Location": {
+        "X": 99,
+        "Y": 22
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 545,
+    "Location": {
+      "X": 1,
+      "Y": 34
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 544 to 545"
+}

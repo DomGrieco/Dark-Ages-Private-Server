@@ -1,0 +1,69 @@
+{
+  "ActivationMapId": 7050,
+  "Activations": [
+    {
+      "AreaId": 7050,
+      "Location": {
+        "X": 16,
+        "Y": 1
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 7050,
+      "Location": {
+        "X": 17,
+        "Y": 1
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 7050,
+      "Location": {
+        "X": 18,
+        "Y": 1
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 7050,
+      "Location": {
+        "X": 19,
+        "Y": 1
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 7050,
+      "Location": {
+        "X": 20,
+        "Y": 1
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 7050,
+      "Location": {
+        "X": 21,
+        "Y": 1
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 7071,
+    "Location": {
+      "X": 43,
+      "Y": 44
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 7050 to 7071"
+}

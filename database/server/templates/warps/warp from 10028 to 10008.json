@@ -1,0 +1,61 @@
+{
+  "ActivationMapId": 10028,
+  "Activations": [
+    {
+      "AreaId": 10028,
+      "Location": {
+        "X": 36,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 10028,
+      "Location": {
+        "X": 39,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 10028,
+      "Location": {
+        "X": 37,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 10028,
+      "Location": {
+        "X": 41,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 10028,
+      "Location": {
+        "X": 43,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 10008,
+    "Location": {
+      "X": 43,
+      "Y": 47
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 10028 to 10008"
+}

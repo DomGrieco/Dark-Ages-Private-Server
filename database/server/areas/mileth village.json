@@ -1,10 +1,10 @@
 {
   "FilePath": "..\\..\\database\\server\\maps\\lod500.map",
   "Cols": 100,
-  "ContentName": null,
-  "Flags": 131072,
+  "ContentName": "Mileth Village",
+  "Flags": 0,
   "Id": 500,
-  "Music": 17,
+  "Music": -1,
   "Name": "Mileth Village",
   "Rows": 100,
   "Blocks": [],

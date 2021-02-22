@@ -1,0 +1,53 @@
+{
+  "ActivationMapId": 6929,
+  "Activations": [
+    {
+      "AreaId": 6929,
+      "Location": {
+        "X": 17,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6929,
+      "Location": {
+        "X": 18,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6929,
+      "Location": {
+        "X": 19,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6929,
+      "Location": {
+        "X": 20,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 6930,
+    "Location": {
+      "X": 18,
+      "Y": 29
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 6929 to 6930"
+}

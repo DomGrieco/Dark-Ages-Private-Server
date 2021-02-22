@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 265,
+  "Activations": [
+    {
+      "AreaId": 265,
+      "Location": {
+        "X": 30,
+        "Y": 30
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 268,
+    "Location": {
+      "X": 1,
+      "Y": 12
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 265 to 268"
+}

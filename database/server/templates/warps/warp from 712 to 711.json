@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 712,
+  "Activations": [
+    {
+      "AreaId": 712,
+      "Location": {
+        "X": 3,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 711,
+    "Location": {
+      "X": 7,
+      "Y": 4
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 712 to 711"
+}

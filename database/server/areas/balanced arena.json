@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod511.map",
+  "Cols": 40,
+  "ContentName": "Balanced Arena",
+  "Flags": 0,
+  "Id": 511,
+  "Music": -1,
+  "Name": "Balanced Arena",
+  "Rows": 40,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 511
+}

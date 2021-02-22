@@ -1,0 +1,77 @@
+{
+  "ActivationMapId": 8354,
+  "Activations": [
+    {
+      "AreaId": 8354,
+      "Location": {
+        "X": 19,
+        "Y": 12
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8354,
+      "Location": {
+        "X": 19,
+        "Y": 13
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8354,
+      "Location": {
+        "X": 19,
+        "Y": 14
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8354,
+      "Location": {
+        "X": 19,
+        "Y": 15
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8354,
+      "Location": {
+        "X": 19,
+        "Y": 16
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8354,
+      "Location": {
+        "X": 19,
+        "Y": 17
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8354,
+      "Location": {
+        "X": 19,
+        "Y": 18
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 8355,
+    "Location": {
+      "X": 1,
+      "Y": 10
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 8354 to 8355"
+}

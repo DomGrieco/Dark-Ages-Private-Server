@@ -1,10 +1,10 @@
 {
   "FilePath": "..\\..\\database\\server\\maps\\lod135.map",
   "Cols": 12,
-  "ContentName": null,
-  "Flags": 106240,
+  "ContentName": "Mileth Storage",
+  "Flags": 0,
   "Id": 135,
-  "Music": 17,
+  "Music": -1,
   "Name": "Mileth Storage",
   "Rows": 12,
   "Blocks": [],

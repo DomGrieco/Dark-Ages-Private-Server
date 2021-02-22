@@ -1,13 +1,13 @@
 {
-  "FilePath": "..\\..\\database\\server\\maps\\lod1003.map",
+  "FilePath": "..\\..\\database\\server\\maps\\lod136.map",
   "Cols": 12,
-  "ContentName": null,
-  "Flags": 106240,
-  "Id": 1003,
-  "Music": 1,
+  "ContentName": "Mileth Inn",
+  "Flags": 0,
+  "Id": 136,
+  "Music": -1,
   "Name": "Mileth Inn",
   "Rows": 12,
   "Blocks": [],
   "ScriptKey": null,
-  "ID": 1003
+  "ID": 136
 }

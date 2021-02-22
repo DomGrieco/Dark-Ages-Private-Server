@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 8116,
+  "Activations": [
+    {
+      "AreaId": 8116,
+      "Location": {
+        "X": 22,
+        "Y": 48
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 8117,
+    "Location": {
+      "X": 4,
+      "Y": 4
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 8116 to 8117"
+}

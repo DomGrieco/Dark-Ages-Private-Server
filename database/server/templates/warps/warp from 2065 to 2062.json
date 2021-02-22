@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 2065,
+  "Activations": [
+    {
+      "AreaId": 2065,
+      "Location": {
+        "X": 19,
+        "Y": 9
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 2062,
+    "Location": {
+      "X": 1,
+      "Y": 9
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 2065 to 2062"
+}

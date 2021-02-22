@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod255.map",
+  "Cols": 20,
+  "ContentName": "Piet Dungeon 16-2",
+  "Flags": 0,
+  "Id": 255,
+  "Music": -1,
+  "Name": "Piet Dungeon 16-2",
+  "Rows": 20,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 255
+}

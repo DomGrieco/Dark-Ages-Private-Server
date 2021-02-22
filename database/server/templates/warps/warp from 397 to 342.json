@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 397,
+  "Activations": [
+    {
+      "AreaId": 397,
+      "Location": {
+        "X": 1,
+        "Y": 5
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 342,
+    "Location": {
+      "X": 10,
+      "Y": 6
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 397 to 342"
+}

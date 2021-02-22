@@ -1,10 +1,10 @@
 {
   "FilePath": "..\\..\\database\\server\\maps\\lod133.map",
   "Cols": 12,
-  "ContentName": null,
-  "Flags": 106240,
+  "ContentName": "Mileth Armor Shop",
+  "Flags": 0,
   "Id": 133,
-  "Music": 17,
+  "Music": -1,
   "Name": "Mileth Armor Shop",
   "Rows": 12,
   "Blocks": [],

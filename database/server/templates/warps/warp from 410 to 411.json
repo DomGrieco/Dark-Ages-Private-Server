@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 410,
+  "Activations": [
+    {
+      "AreaId": 410,
+      "Location": {
+        "X": 12,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 411,
+    "Location": {
+      "X": 1,
+      "Y": 9
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 410 to 411"
+}

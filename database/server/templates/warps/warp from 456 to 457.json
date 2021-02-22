@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 456,
+  "Activations": [
+    {
+      "AreaId": 456,
+      "Location": {
+        "X": 24,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 457,
+    "Location": {
+      "X": 25,
+      "Y": 48
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 456 to 457"
+}

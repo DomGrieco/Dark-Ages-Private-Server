@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 216,
+  "Activations": [
+    {
+      "AreaId": 216,
+      "Location": {
+        "X": 11,
+        "Y": 19
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 219,
+    "Location": {
+      "X": 2,
+      "Y": 7
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 216 to 219"
+}

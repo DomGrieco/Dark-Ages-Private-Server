@@ -1,0 +1,37 @@
+{
+  "ActivationMapId": 10194,
+  "Activations": [
+    {
+      "AreaId": 10194,
+      "Location": {
+        "X": 19,
+        "Y": 30
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 10194,
+      "Location": {
+        "X": 18,
+        "Y": 30
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 10193,
+    "Location": {
+      "X": 14,
+      "Y": 3
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 10194 to 10193"
+}

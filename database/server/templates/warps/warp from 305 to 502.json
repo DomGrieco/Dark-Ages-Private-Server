@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 305,
+  "Activations": [
+    {
+      "AreaId": 305,
+      "Location": {
+        "X": 6,
+        "Y": 14
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 502,
+    "Location": {
+      "X": 44,
+      "Y": 50
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 305 to 502"
+}

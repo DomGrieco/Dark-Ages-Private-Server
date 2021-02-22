@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 9356,
+  "Activations": [
+    {
+      "AreaId": 9356,
+      "Location": {
+        "X": 25,
+        "Y": 48
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 9359,
+    "Location": {
+      "X": 2,
+      "Y": 6
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 9356 to 9359"
+}

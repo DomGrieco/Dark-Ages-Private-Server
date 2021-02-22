@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 3615,
+  "Activations": [
+    {
+      "AreaId": 3615,
+      "Location": {
+        "X": 0,
+        "Y": 19
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 3613,
+    "Location": {
+      "X": 67,
+      "Y": 39
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 3615 to 3613"
+}

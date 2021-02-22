@@ -1,0 +1,45 @@
+{
+  "ActivationMapId": 5006,
+  "Activations": [
+    {
+      "AreaId": 5006,
+      "Location": {
+        "X": 37,
+        "Y": 63
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 5006,
+      "Location": {
+        "X": 3,
+        "Y": 31
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 5006,
+      "Location": {
+        "X": 69,
+        "Y": 6
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 5005,
+    "Location": {
+      "X": 69,
+      "Y": 7
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 5006 to 5005"
+}

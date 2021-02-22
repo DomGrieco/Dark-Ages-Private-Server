@@ -1,0 +1,37 @@
+{
+  "ActivationMapId": 252,
+  "Activations": [
+    {
+      "AreaId": 252,
+      "Location": {
+        "X": 34,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 252,
+      "Location": {
+        "X": 35,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 248,
+    "Location": {
+      "X": 3,
+      "Y": 20
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 252 to 248"
+}

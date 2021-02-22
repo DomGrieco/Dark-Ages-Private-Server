@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 95,
+  "Activations": [
+    {
+      "AreaId": 95,
+      "Location": {
+        "X": 10,
+        "Y": 41
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 96,
+    "Location": {
+      "X": 43,
+      "Y": 25
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 95 to 96"
+}

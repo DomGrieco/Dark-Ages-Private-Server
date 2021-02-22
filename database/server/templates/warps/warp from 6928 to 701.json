@@ -1,0 +1,93 @@
+{
+  "ActivationMapId": 6928,
+  "Activations": [
+    {
+      "AreaId": 6928,
+      "Location": {
+        "X": 0,
+        "Y": 78
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6928,
+      "Location": {
+        "X": 0,
+        "Y": 81
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6928,
+      "Location": {
+        "X": 0,
+        "Y": 80
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6928,
+      "Location": {
+        "X": 0,
+        "Y": 75
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6928,
+      "Location": {
+        "X": 0,
+        "Y": 83
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6928,
+      "Location": {
+        "X": 0,
+        "Y": 76
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6928,
+      "Location": {
+        "X": 0,
+        "Y": 77
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6928,
+      "Location": {
+        "X": 0,
+        "Y": 79
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6928,
+      "Location": {
+        "X": 0,
+        "Y": 82
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 701,
+    "Location": {
+      "X": 9,
+      "Y": 15
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 6928 to 701"
+}

@@ -1,0 +1,37 @@
+{
+  "ActivationMapId": 3063,
+  "Activations": [
+    {
+      "AreaId": 3063,
+      "Location": {
+        "X": 37,
+        "Y": 39
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3063,
+      "Location": {
+        "X": 36,
+        "Y": 39
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 3064,
+    "Location": {
+      "X": 36,
+      "Y": 1
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 3063 to 3064"
+}

@@ -1,0 +1,37 @@
+{
+  "ActivationMapId": 10188,
+  "Activations": [
+    {
+      "AreaId": 10188,
+      "Location": {
+        "X": 18,
+        "Y": 30
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 10188,
+      "Location": {
+        "X": 17,
+        "Y": 30
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 10187,
+    "Location": {
+      "X": 14,
+      "Y": 3
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 10188 to 10187"
+}

@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 181,
+  "Activations": [
+    {
+      "AreaId": 181,
+      "Location": {
+        "X": 13,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 168,
+    "Location": {
+      "X": 10,
+      "Y": 13
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 181 to 168"
+}

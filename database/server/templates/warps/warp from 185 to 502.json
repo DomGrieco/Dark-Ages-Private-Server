@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 185,
+  "Activations": [
+    {
+      "AreaId": 185,
+      "Location": {
+        "X": 11,
+        "Y": 47
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 502,
+    "Location": {
+      "X": 45,
+      "Y": 64
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 185 to 502"
+}

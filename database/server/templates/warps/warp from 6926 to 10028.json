@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 6926,
+  "Activations": [
+    {
+      "AreaId": 6926,
+      "Location": {
+        "X": 8,
+        "Y": 9
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 10028,
+    "Location": {
+      "X": 41,
+      "Y": 15
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 6926 to 10028"
+}

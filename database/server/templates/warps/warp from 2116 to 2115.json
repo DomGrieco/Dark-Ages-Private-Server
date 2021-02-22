@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 2116,
+  "Activations": [
+    {
+      "AreaId": 2116,
+      "Location": {
+        "X": 0,
+        "Y": 77
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 2115,
+    "Location": {
+      "X": 18,
+      "Y": 10
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 2116 to 2115"
+}

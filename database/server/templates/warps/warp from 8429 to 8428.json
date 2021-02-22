@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 8429,
+  "Activations": [
+    {
+      "AreaId": 8429,
+      "Location": {
+        "X": 10,
+        "Y": 97
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 8428,
+    "Location": {
+      "X": 26,
+      "Y": 3
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 8429 to 8428"
+}

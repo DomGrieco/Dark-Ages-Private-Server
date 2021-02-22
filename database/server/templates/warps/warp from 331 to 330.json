@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 331,
+  "Activations": [
+    {
+      "AreaId": 331,
+      "Location": {
+        "X": 0,
+        "Y": 12
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 330,
+    "Location": {
+      "X": 20,
+      "Y": 10
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 331 to 330"
+}

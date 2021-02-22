@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 6625,
+  "Activations": [
+    {
+      "AreaId": 6625,
+      "Location": {
+        "X": 0,
+        "Y": 15
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 6626,
+    "Location": {
+      "X": 48,
+      "Y": 44
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 6625 to 6626"
+}

@@ -1,0 +1,61 @@
+{
+  "ActivationMapId": 6610,
+  "Activations": [
+    {
+      "AreaId": 6610,
+      "Location": {
+        "X": 20,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6610,
+      "Location": {
+        "X": 19,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6610,
+      "Location": {
+        "X": 18,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6610,
+      "Location": {
+        "X": 17,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 6610,
+      "Location": {
+        "X": 16,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 6612,
+    "Location": {
+      "X": 22,
+      "Y": 47
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 6610 to 6612"
+}

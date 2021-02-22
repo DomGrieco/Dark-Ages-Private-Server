@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 276,
+  "Activations": [
+    {
+      "AreaId": 276,
+      "Location": {
+        "X": 0,
+        "Y": 33
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 273,
+    "Location": {
+      "X": 25,
+      "Y": 22
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 276 to 273"
+}

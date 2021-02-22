@@ -1,0 +1,53 @@
+{
+  "ActivationMapId": 3610,
+  "Activations": [
+    {
+      "AreaId": 3610,
+      "Location": {
+        "X": 16,
+        "Y": 79
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3610,
+      "Location": {
+        "X": 15,
+        "Y": 79
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3610,
+      "Location": {
+        "X": 14,
+        "Y": 79
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3610,
+      "Location": {
+        "X": 13,
+        "Y": 79
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 3611,
+    "Location": {
+      "X": 46,
+      "Y": 3
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 3610 to 3611"
+}

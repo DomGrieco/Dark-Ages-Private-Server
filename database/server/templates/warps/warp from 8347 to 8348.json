@@ -1,0 +1,77 @@
+{
+  "ActivationMapId": 8347,
+  "Activations": [
+    {
+      "AreaId": 8347,
+      "Location": {
+        "X": 0,
+        "Y": 21
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8347,
+      "Location": {
+        "X": 0,
+        "Y": 20
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8347,
+      "Location": {
+        "X": 0,
+        "Y": 19
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8347,
+      "Location": {
+        "X": 0,
+        "Y": 18
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8347,
+      "Location": {
+        "X": 0,
+        "Y": 17
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8347,
+      "Location": {
+        "X": 0,
+        "Y": 16
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8347,
+      "Location": {
+        "X": 0,
+        "Y": 15
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 8348,
+    "Location": {
+      "X": 68,
+      "Y": 43
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 8347 to 8348"
+}

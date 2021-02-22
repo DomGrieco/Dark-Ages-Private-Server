@@ -1,0 +1,53 @@
+{
+  "ActivationMapId": 8999,
+  "Activations": [
+    {
+      "AreaId": 8999,
+      "Location": {
+        "X": 29,
+        "Y": 12
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8999,
+      "Location": {
+        "X": 29,
+        "Y": 13
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8999,
+      "Location": {
+        "X": 29,
+        "Y": 14
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 8999,
+      "Location": {
+        "X": 29,
+        "Y": 15
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 133,
+    "Location": {
+      "X": 7,
+      "Y": 7
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 8999 to 133"
+}

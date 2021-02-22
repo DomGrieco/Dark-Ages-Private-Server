@@ -1,0 +1,37 @@
+{
+  "ActivationMapId": 167,
+  "Activations": [
+    {
+      "AreaId": 167,
+      "Location": {
+        "X": 6,
+        "Y": 11
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 167,
+      "Location": {
+        "X": 5,
+        "Y": 11
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 502,
+    "Location": {
+      "X": 13,
+      "Y": 9
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 167 to 502"
+}

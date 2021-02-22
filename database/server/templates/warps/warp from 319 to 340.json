@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 319,
+  "Activations": [
+    {
+      "AreaId": 319,
+      "Location": {
+        "X": 5,
+        "Y": 39
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 340,
+    "Location": {
+      "X": 12,
+      "Y": 27
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 319 to 340"
+}

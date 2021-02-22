@@ -1,0 +1,45 @@
+{
+  "ActivationMapId": 565,
+  "Activations": [
+    {
+      "AreaId": 565,
+      "Location": {
+        "X": 28,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 565,
+      "Location": {
+        "X": 27,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 565,
+      "Location": {
+        "X": 26,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 564,
+    "Location": {
+      "X": 43,
+      "Y": 98
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 565 to 564"
+}

@@ -1,0 +1,37 @@
+{
+  "ActivationMapId": 192,
+  "Activations": [
+    {
+      "AreaId": 192,
+      "Location": {
+        "X": 8,
+        "Y": 24
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 192,
+      "Location": {
+        "X": 9,
+        "Y": 24
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 500,
+    "Location": {
+      "X": 40,
+      "Y": 76
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 192 to 500"
+}

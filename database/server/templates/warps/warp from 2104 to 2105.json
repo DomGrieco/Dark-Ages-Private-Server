@@ -1,0 +1,53 @@
+{
+  "ActivationMapId": 2104,
+  "Activations": [
+    {
+      "AreaId": 2104,
+      "Location": {
+        "X": 0,
+        "Y": 10
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 2104,
+      "Location": {
+        "X": 0,
+        "Y": 11
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 2104,
+      "Location": {
+        "X": 0,
+        "Y": 13
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 2104,
+      "Location": {
+        "X": 0,
+        "Y": 12
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 2105,
+    "Location": {
+      "X": 18,
+      "Y": 14
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 2104 to 2105"
+}

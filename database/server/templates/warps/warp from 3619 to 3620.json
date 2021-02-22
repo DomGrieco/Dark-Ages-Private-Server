@@ -1,0 +1,45 @@
+{
+  "ActivationMapId": 3619,
+  "Activations": [
+    {
+      "AreaId": 3619,
+      "Location": {
+        "X": 69,
+        "Y": 59
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3619,
+      "Location": {
+        "X": 69,
+        "Y": 60
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 3619,
+      "Location": {
+        "X": 69,
+        "Y": 61
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 3620,
+    "Location": {
+      "X": 3,
+      "Y": 77
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 3619 to 3620"
+}

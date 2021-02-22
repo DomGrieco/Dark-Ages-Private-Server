@@ -1,0 +1,45 @@
+{
+  "ActivationMapId": 561,
+  "Activations": [
+    {
+      "AreaId": 561,
+      "Location": {
+        "X": 33,
+        "Y": 49
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 561,
+      "Location": {
+        "X": 34,
+        "Y": 49
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 561,
+      "Location": {
+        "X": 35,
+        "Y": 49
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 556,
+    "Location": {
+      "X": 20,
+      "Y": 1
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 561 to 556"
+}

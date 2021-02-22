@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod393.map",
+  "Cols": 12,
+  "ContentName": "Path Reception",
+  "Flags": 0,
+  "Id": 393,
+  "Music": -1,
+  "Name": "Path Reception",
+  "Rows": 12,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 393
+}

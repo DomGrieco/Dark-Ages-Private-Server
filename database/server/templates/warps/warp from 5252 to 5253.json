@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 5252,
+  "Activations": [
+    {
+      "AreaId": 5252,
+      "Location": {
+        "X": 8,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 5253,
+    "Location": {
+      "X": 3,
+      "Y": 14
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 5252 to 5253"
+}

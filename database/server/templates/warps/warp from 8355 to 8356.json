@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 8355,
+  "Activations": [
+    {
+      "AreaId": 8355,
+      "Location": {
+        "X": 32,
+        "Y": 5
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 8356,
+    "Location": {
+      "X": 34,
+      "Y": 61
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 8355 to 8356"
+}

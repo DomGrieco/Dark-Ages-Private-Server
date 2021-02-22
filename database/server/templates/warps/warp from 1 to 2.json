@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 1,
+  "Activations": [
+    {
+      "AreaId": 1,
+      "Location": {
+        "X": 3,
+        "Y": 4
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 2,
+    "Location": {
+      "X": 44,
+      "Y": 23
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 1 to 2"
+}

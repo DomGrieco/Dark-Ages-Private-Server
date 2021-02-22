@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 5025,
+  "Activations": [
+    {
+      "AreaId": 5025,
+      "Location": {
+        "X": 66,
+        "Y": 33
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 5026,
+    "Location": {
+      "X": 79,
+      "Y": 28
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 5025 to 5026"
+}

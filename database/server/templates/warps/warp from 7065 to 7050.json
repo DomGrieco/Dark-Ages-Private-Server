@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 7065,
+  "Activations": [
+    {
+      "AreaId": 7065,
+      "Location": {
+        "X": 30,
+        "Y": 48
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 7050,
+    "Location": {
+      "X": 27,
+      "Y": 4
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 7065 to 7050"
+}

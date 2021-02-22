@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 38,
+  "Activations": [
+    {
+      "AreaId": 38,
+      "Location": {
+        "X": 0,
+        "Y": 30
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 35,
+    "Location": {
+      "X": 11,
+      "Y": 22
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 38 to 35"
+}

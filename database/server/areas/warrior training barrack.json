@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod5251.map",
+  "Cols": 13,
+  "ContentName": "Warrior Training Barrack",
+  "Flags": 0,
+  "Id": 5251,
+  "Music": -1,
+  "Name": "Warrior Training Barrack",
+  "Rows": 13,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 5251
+}

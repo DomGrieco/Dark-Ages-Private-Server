@@ -1,0 +1,13 @@
+{
+  "FilePath": "..\\..\\database\\server\\maps\\lod622.map",
+  "Cols": 100,
+  "ContentName": "Enchanted Garden",
+  "Flags": 0,
+  "Id": 622,
+  "Music": -1,
+  "Name": "Enchanted Garden",
+  "Rows": 100,
+  "Blocks": [],
+  "ScriptKey": null,
+  "ID": 622
+}

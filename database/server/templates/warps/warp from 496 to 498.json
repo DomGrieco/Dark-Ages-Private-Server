@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 496,
+  "Activations": [
+    {
+      "AreaId": 496,
+      "Location": {
+        "X": 4,
+        "Y": 13
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 498,
+    "Location": {
+      "X": 1,
+      "Y": 10
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 496 to 498"
+}

@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 662,
+  "Activations": [
+    {
+      "AreaId": 662,
+      "Location": {
+        "X": 64,
+        "Y": 76
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 5252,
+    "Location": {
+      "X": 6,
+      "Y": 11
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 662 to 5252"
+}

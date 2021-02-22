@@ -1,0 +1,45 @@
+{
+  "ActivationMapId": 10016,
+  "Activations": [
+    {
+      "AreaId": 10016,
+      "Location": {
+        "X": 8,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 10016,
+      "Location": {
+        "X": 32,
+        "Y": 0
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 10016,
+      "Location": {
+        "X": 42,
+        "Y": 0
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 10017,
+    "Location": {
+      "X": 42,
+      "Y": 47
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 10016 to 10017"
+}

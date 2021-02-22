@@ -1,0 +1,37 @@
+{
+  "ActivationMapId": 5031,
+  "Activations": [
+    {
+      "AreaId": 5031,
+      "Location": {
+        "X": 1,
+        "Y": 39
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 5031,
+      "Location": {
+        "X": 48,
+        "Y": 39
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 5030,
+    "Location": {
+      "X": 77,
+      "Y": 23
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 5031 to 5030"
+}

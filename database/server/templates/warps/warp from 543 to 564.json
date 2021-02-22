@@ -1,0 +1,45 @@
+{
+  "ActivationMapId": 543,
+  "Activations": [
+    {
+      "AreaId": 543,
+      "Location": {
+        "X": 58,
+        "Y": 99
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 543,
+      "Location": {
+        "X": 57,
+        "Y": 99
+      },
+      "PortalKey": 0
+    },
+    {
+      "AreaId": 543,
+      "Location": {
+        "X": 56,
+        "Y": 99
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 564,
+    "Location": {
+      "X": 42,
+      "Y": 1
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 543 to 564"
+}

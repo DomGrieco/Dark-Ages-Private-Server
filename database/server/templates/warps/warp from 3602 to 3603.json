@@ -1,0 +1,29 @@
+{
+  "ActivationMapId": 3602,
+  "Activations": [
+    {
+      "AreaId": 3602,
+      "Location": {
+        "X": 26,
+        "Y": 77
+      },
+      "PortalKey": 0
+    }
+  ],
+  "LevelRequired": 1,
+  "To": {
+    "AreaId": 3603,
+    "Location": {
+      "X": 19,
+      "Y": 3
+    },
+    "PortalKey": 0
+  },
+  "WarpRadius": 0,
+  "WarpType": 0,
+  "WorldResetWarpId": 0,
+  "WorldTransionWarpId": 0,
+  "Description": null,
+  "Group": null,
+  "Name": "Warp from 3602 to 3603"
+}
