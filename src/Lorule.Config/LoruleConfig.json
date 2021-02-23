@@ -109,8 +109,8 @@
 		"MultiUserLogin": false,
 		"BadRequestMessage": "(Invalid Request)",
 		"DefaultKey": "73F2BE80DDEB1BFDC887AB1C3CA18365",
-		"ServerDev": "wren",
-		"ProjectDev": "wren",
+		"ServerDev": "Dom",
+		"ProjectDev": "Dom",
 		"LingerState": 1000.0,
 		"PingInterval": 10.0,
 		"SaveRate": 10.0,
@@ -119,7 +119,7 @@
 		"SERVER_TITLE": "Hades",
 		"ServerWelcomeMessage": "Welcome to Lorule",
 		"GameMasters": [
-			"test", "lol"
+			"dom", "amber"
 		],
 		"DontSavePlayers": false,
 		"Settings": [
@@ -146,7 +146,7 @@
 		"UseLoruleVariants": false,
 		"UseLoruleItemRarity": false,
 		"ErrorReporting": true,
-		"DevMode": true,
+		"DevMode": false,
 		"UseLobby": true,
 		"ClientVersion": 718,
 		"LogObjectsAdded": false,
